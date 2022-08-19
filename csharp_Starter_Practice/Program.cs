@@ -5,10 +5,11 @@ namespace csharp_Starter_Practice
     class Program
     {
 
-        static int SquareSum(params int[] numberArray)
+        static int SquareSum(params int[] rowOfNumbers)
         {
             int sum = 0;
-            foreach(int element in numberArray){
+            foreach(int element in rowOfNumbers)
+            {
                 sum += element * element;
             }
             return sum;
@@ -29,10 +30,10 @@ namespace csharp_Starter_Practice
             return count;
         }
 
-        static string Repeater(string text, int number)
+        static string Repeater(string text, int repetitionCount)
         {
             string result = "";
-            for(int i=0; i<number; i++)
+            for(var i=0; i< repetitionCount; i++)
             {
                 result += text;
             }
@@ -50,14 +51,14 @@ namespace csharp_Starter_Practice
         static void Main(string[] args)
         {
             {
-            Console.WriteLine("complete the square sum function");
-            int[] arrrr = new int[4]{ 2, 2, 2, 2 };
-            Console.WriteLine(SquareSum(1, 2, 2));
-            Console.WriteLine(SquareSum(arrrr));
-            Console.WriteLine(SquareSum(1, 1, 1));
-            Console.WriteLine(SquareSum(2, 2, 2));
-            Console.WriteLine(SquareSum(1, 2, 2, 2));
-            Console.WriteLine(SquareSum(2, 2, 2, 1));
+                Console.WriteLine("complete the square sum function");
+                int[] arrrr = { 2, 2, 2, 2 };
+                Console.WriteLine(SquareSum(arrrr));
+                Console.WriteLine(SquareSum(1, 2, 2));
+                Console.WriteLine(SquareSum(1, 1, 1));
+                Console.WriteLine(SquareSum(2, 2, 2));
+                Console.WriteLine(SquareSum(1, 2, 2, 2));
+                Console.WriteLine(SquareSum(2, 2, 2, 1));
             }
 
 

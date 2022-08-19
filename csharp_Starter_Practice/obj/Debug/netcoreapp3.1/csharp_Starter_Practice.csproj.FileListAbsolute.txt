@@ -1,0 +1,14 @@
+D:\Advantiss\csharp_Starter_Practice\csharp_Starter_Practice\obj\Debug\netcoreapp3.1\csharp_Starter_Practice.csproj.AssemblyReference.cache
+D:\Advantiss\csharp_Starter_Practice\csharp_Starter_Practice\obj\Debug\netcoreapp3.1\csharp_Starter_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advantiss\csharp_Starter_Practice\csharp_Starter_Practice\obj\Debug\netcoreapp3.1\csharp_Starter_Practice.AssemblyInfoInputs.cache
+D:\Advantiss\csharp_Starter_Practice\csharp_Starter_Practice\obj\Debug\netcoreapp3.1\csharp_Starter_Practice.AssemblyInfo.cs
+D:\Advantiss\csharp_Starter_Practice\csharp_Starter_Practice\obj\Debug\netcoreapp3.1\csharp_Starter_Practice.csproj.CoreCompileInputs.cache
+D:\Advantiss\csharp_Starter_Practice\csharp_Starter_Practice\bin\Debug\netcoreapp3.1\csharp_Starter_Practice.exe
+D:\Advantiss\csharp_Starter_Practice\csharp_Starter_Practice\bin\Debug\netcoreapp3.1\csharp_Starter_Practice.deps.json
+D:\Advantiss\csharp_Starter_Practice\csharp_Starter_Practice\bin\Debug\netcoreapp3.1\csharp_Starter_Practice.runtimeconfig.json
+D:\Advantiss\csharp_Starter_Practice\csharp_Starter_Practice\bin\Debug\netcoreapp3.1\csharp_Starter_Practice.runtimeconfig.dev.json
+D:\Advantiss\csharp_Starter_Practice\csharp_Starter_Practice\bin\Debug\netcoreapp3.1\csharp_Starter_Practice.dll
+D:\Advantiss\csharp_Starter_Practice\csharp_Starter_Practice\bin\Debug\netcoreapp3.1\csharp_Starter_Practice.pdb
+D:\Advantiss\csharp_Starter_Practice\csharp_Starter_Practice\obj\Debug\netcoreapp3.1\csharp_Starter_Practice.dll
+D:\Advantiss\csharp_Starter_Practice\csharp_Starter_Practice\obj\Debug\netcoreapp3.1\csharp_Starter_Practice.pdb
+D:\Advantiss\csharp_Starter_Practice\csharp_Starter_Practice\obj\Debug\netcoreapp3.1\csharp_Starter_Practice.genruntimeconfig.cache
